@@ -21,7 +21,7 @@ Welcome to my GitHub profile! 💻✨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eryx-lopez&repo=BubalcheWeb&theme=apprentice)](https://github.com/eryx-lopez/BubalcheWeb) 
 
 ## 📫 Get in Contact With Me 
-- Email: [eryxlopezar@gmail.com](mailto:eryxlopezar@gmail.com)
+- Email: [eryxloarana@gmail.com](mailto:eryxloarana@gmail.com)
 - LinkedIn: [Eryx Luciel Lopez](https://www.linkedin.com/in/eryx-luciel-lopez)
   
 ## 📖 Hobbies & Interests 
